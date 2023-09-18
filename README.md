@@ -1,4 +1,4 @@
-# GreenhouseGasAnalysis
+# Radiative Equilibrium for Greenhouse Gas Analysis
 
 Tutorial on how to use the Radiative Equilibrium Framework I developed in Clima Atmos.  
 
